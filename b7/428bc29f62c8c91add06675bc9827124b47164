@@ -1,0 +1,25 @@
+.gitignore
+  s_5d5f23c425c152::t_c86189936d2a55 1
+index.html
+  s_5d5f23c425c152::t_55adbfa0854746 1-100
+privacy.html
+  s_5d5f23c425c152::t_02a7b221f7a1ab 1-149
+support.html
+  s_5d5f23c425c152::t_e82187a862a37b 1-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b7428bc29f62c8c91add06675bc9827124b47164",
+  "prompts": {},
+  "sessions": {
+    "s_5d5f23c425c152": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "062cd353-33b8-46be-9152-c66da59e1c9a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "TXFTM <txftmsupport@gmail.com>"
+    }
+  }
+}
